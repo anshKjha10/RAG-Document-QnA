@@ -26,6 +26,3 @@ Run the application using:
 python app.py
 ```
 
-## Requirements
-
-See the main project requirements for dependencies needed to run this application.
